@@ -139,3 +139,20 @@ _One cheat sheet to rule them all_
 [![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue&style=flat-square)](https://github.com/your-username)
 
 </div>
+
+---
+
+## Installation
+
+### Prerequisites
+- [Git](https://git-scm.com/)
+- The appropriate runtime/toolchain for this project
+
+### Steps
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/codexvisual/python-cmd.git
+   cd python-cmd
+   ```
+2. Follow the project-specific setup (dependencies, environment variables, database, etc.).
+3. Build and run the project using its standard commands.
